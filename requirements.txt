@@ -1,5 +1,5 @@
-streamlit 
-transformers 
-torch 
-sentence-transformers 
+streamlit
+transformers
+torch
+sentence-transformers
 gtts
